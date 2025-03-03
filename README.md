@@ -6,6 +6,8 @@
 
 The Agriculture Booking System is a web-based platform that connects buyers and sellers of fertilizers. Sellers can list fertilizers, while buyers can browse and purchase according to their needs. An admin oversees and manages the platform. The system is built using HTML, CSS, JavaScript, and PHP, with XAMPP as the required local server environment.
 
+UNzip agriculture booking.zip
+
 ## Features
 
 ### Admin Features:
